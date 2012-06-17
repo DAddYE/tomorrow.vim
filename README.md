@@ -12,7 +12,7 @@ If you need iTerm and Terminal palette, checkout my [dotfiles](https://github.co
 
 ### Palette
 
-![Palette](http://f.cl.ly/items/0r3y1G2g2S0U3L0O181A/Tomorrow.png)
+![Palette](http://f.cl.ly/items/273M001t1B1h3E360I2W/Tomorrow.png)
 
 ## About ME
 
